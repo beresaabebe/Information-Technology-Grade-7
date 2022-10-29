@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305117552811",
+    "project_id": "ict-grade-7th",
+    "storage_bucket": "ict-grade-7th.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305117552811:android:32c9059bd6b851da9517ee",
+        "android_client_info": {
+          "package_name": "com.beckytech.informationtechnologygrade7th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305117552811-b6vpkeo70kh3el04r98mbskmn6kbcbjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8EmRwkgO9rYM2IyxS2q1c9bLflFy33I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305117552811-b6vpkeo70kh3el04r98mbskmn6kbcbjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
